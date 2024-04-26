@@ -1,0 +1,2 @@
+# teraterm-macro
+Tera Termのマクロ
