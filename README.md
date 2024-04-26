@@ -1,2 +1,2 @@
 # teraterm-macro
-Tera Termのマクロ
+[Tera Term](https://teratermproject.github.io/)のマクロ
